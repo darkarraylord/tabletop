@@ -1,0 +1,36 @@
+{
+	"users": [
+    {
+      "userid": 1,
+      "userName": "Gilmar Ferreira de Lima",
+      "lastLogin": "18/12/1979",
+      "password": "Guigui21",
+      "phone": "",
+      "email": "gicpd2@gmail.com"
+    },
+    {
+      "userid": 2,
+      "userName": "Charles Paulino",
+      "lastLogin": "18/12/1979",
+      "password": "chaia1968",
+      "phone": "",
+      "email": "jcharlessp@gmail.com"
+    },
+    {
+      "userid": 3,
+      "userName": "Ricardo Jorge",
+      "lastLogin": "18/12/1979",
+      "password": "jorge123",
+      "phone": "",
+      "email": "jorgericardosp@gmail.com"
+    }
+  ],
+
+	"menu":[
+		{ "title": "Bebidas", 		"id": 1, "url": "drinks"},
+	    { "title": "Aperitivos", 	"id": 2},
+	    { "title": "Kids", 			"id": 3},
+	    { "title": "Entradas", 		"id": 4},
+	    { "title": "Sobremesas", 	"id": 5}
+	]
+}
